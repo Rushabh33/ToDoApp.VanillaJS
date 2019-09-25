@@ -1,0 +1,11 @@
+body {
+  background: blue;
+}
+
+.list-group-item {
+  background: navy;
+}
+
+.hidden{
+  display: none !important;
+}
